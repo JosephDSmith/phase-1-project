@@ -19,13 +19,11 @@ App features :
 
 - Scroll through the database of dogs:
 
-![Gif of scrolling through database](gifs/Dog Breed Gif 2.gif)
-
+![Dog Breeds Gif 1](https://user-images.githubusercontent.com/122189576/226214553-17037abb-ea86-4350-bd66-e94b3f18fbef.gif)
 
 - Expand details for each breed:  
 
-
-
+![Dog Breed Gif 2](https://user-images.githubusercontent.com/122189576/226214561-4e45a9ce-5481-4ab7-8e23-ef02ea15f84e.gif)
 
 ## Contributing
 
