@@ -1,12 +1,47 @@
-# phase-1-project
+# Dog Breed App
 
-Dog Breeds App
-Dog Breeds App for Phase 1 Project Assignment by Joseph D Smith
+Dog Breed App for Phase 1 Project Assignment by Joseph D Smith 
 
-Description:
-Dog Breeds is an app that displays a list of popular dog breeds, which will expand breed details based on user interactivty. 
 
-Features:
+# Description:  
 
-Users can scroll through the list of dog breeds.
-Users can click "in" to information of each individual dog breed, and click "out" to the main page. 
+Dog Breed App is a web application that displays popular dog breed names and allows users to access more detailed breed information for each dog. 
+
+Features: 
+
+- Users can scroll through the library of dog breeds.  
+- Users can click on dog breeds to expand breed details for each dog.
+
+
+## Usage Visuals
+
+App features : 
+
+- Scroll through the database of dogs:
+
+
+
+- Expand details for each breed:  
+
+
+
+
+## Contributing
+
+Pull requests are welcome for reiew. 
+No major changes are allowed. 
+
+Please reach out to support if you have any questions. 
+
+## License
+
+Licensing is not being offered at this time. 
+For any questions, please reach out to our support team. 
+
+## References
+
+All images dog breed information can be found at the open api thatapicompany.com
+
+## Support
+
+For any questions or support, please reach out to joesmith40@gmail.com.
