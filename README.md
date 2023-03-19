@@ -19,6 +19,7 @@ App features :
 
 - Scroll through the database of dogs:
 
+![Gif of scrolling through database](gifs/Dog Breed Gif 2.gif)
 
 
 - Expand details for each breed:  
