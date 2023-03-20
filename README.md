@@ -39,7 +39,7 @@ For any questions, please reach out to our support team.
 
 ## References
 
-All images dog breed information can be found at the open api thatapicompany.com
+All images and dog breed information can be found at the open api thatapicompany.com
 
 ## Blog
 
