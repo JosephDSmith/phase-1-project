@@ -41,6 +41,11 @@ For any questions, please reach out to our support team.
 
 All images dog breed information can be found at the open api thatapicompany.com
 
+## Blog
+
+If you like what you see, check out my blog on Medium! 
+https://medium.com/@joesmith40
+
 ## Support
 
 For any questions or support, please reach out to joesmith40@gmail.com.
